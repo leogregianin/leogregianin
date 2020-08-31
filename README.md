@@ -1,8 +1,18 @@
-### Hi there 👋
+Hi there 👋
+I am a software developer, husband, father and sports lover.
+My interests range from technology, innovation, entrepreneurship and travel.
+Contribute with Open Source Software development.
 
-<!--
-**leogregianin/leogregianin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="leogregianin@gmail.com" target="_blank">Gmail</a>
+<a href="https://www.linkedin.com/in/leonardogregianin/" target="_blank">Linkedin</a>
+<a href="https://medium.com/@leogregianin" target="_blank">Artigos</a>
+<a href="https://twitter.com/leogregianin" target="_blank">Twitter</a>
+<a href="https://github.com/leogregianin" target="_blank">GitHub</a>
+<a href="https://gitlab.com/leogregianin" target="_blank">GitLab</a>
+<a href="https://pt.stackoverflow.com/users/7956/lgregianin" target="_blank">StackOverFlow</a>
+<a href="https://speakerdeck.com/leogregianin" target="_blank">Palestras</a>
 
+<!--      
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

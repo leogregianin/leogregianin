@@ -1,26 +1,14 @@
 Hi there 👋
-I am a software developer, husband, father and sports lover.
-My interests range from technology, innovation, entrepreneurship and travel.
+
+I am a software enginner, husband, father of two beautiful children and sports lover :tennis:
+
+My interests range from innovation, entrepreneurship and technology to agrobussiness and logistics.
+
 Contribute with Open Source Software development.
 
-<a href="leogregianin@gmail.com" target="_blank">Gmail</a>
 <a href="https://www.linkedin.com/in/leonardogregianin/" target="_blank">Linkedin</a>
 <a href="https://medium.com/@leogregianin" target="_blank">Artigos</a>
 <a href="https://twitter.com/leogregianin" target="_blank">Twitter</a>
-<a href="https://github.com/leogregianin" target="_blank">GitHub</a>
 <a href="https://gitlab.com/leogregianin" target="_blank">GitLab</a>
 <a href="https://pt.stackoverflow.com/users/7956/lgregianin" target="_blank">StackOverFlow</a>
 <a href="https://speakerdeck.com/leogregianin" target="_blank">Palestras</a>
-
-<!--      
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

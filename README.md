@@ -1,14 +1,9 @@
-Hi there 👋
+Hi there, I'm Leonardo! 👋
 
-I am a software enginner, husband, father of two beautiful children and sports lover :tennis:
-
-My interests range from innovation, entrepreneurship and technology to agrobussiness and logistics.
-
-Contribute with Open Source Software development.
-
-<a href="https://www.linkedin.com/in/leonardogregianin/" target="_blank">Linkedin</a>
-<a href="https://medium.com/@leogregianin" target="_blank">Artigos</a>
-<a href="https://twitter.com/leogregianin" target="_blank">Twitter</a>
-<a href="https://gitlab.com/leogregianin" target="_blank">GitLab</a>
-<a href="https://pt.stackoverflow.com/users/7956/lgregianin" target="_blank">StackOverFlow</a>
-<a href="https://speakerdeck.com/leogregianin" target="_blank">Palestras</a>
+- :technologist: Every day thinking about solutions, automations, writing code and creating some bugs on Github and [Gitlab](https://gitlab.com/leogregianin).
+- :earth_americas: From Santa Catarina, Brasil / Living in Cuiabá, Mato Grosso, Brasil :fire:
+- :family: Husband, father of two beautiful children and sports lover :tennis:
+- :dart: My interests range from innovation, entrepreneurship and technology to agrobussiness, stock market and logistics. 
+- :notebook: I like to write some stuff on [Medium](https://medium.com/@leogregianin) and help [StackOverFlow](https://pt.stackoverflow.com/users/7956/lgregianin) community.
+- :seedling: Contribute with Open Source Software development and learning more about Cloud Architecture and Software Engineering.
+- :star: More about in [Linkedin](https://www.linkedin.com/in/leonardogregianin) and my [presentations](https://speakerdeck.com/leogregianin).

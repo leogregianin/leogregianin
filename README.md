@@ -6,5 +6,4 @@ Hi there, I'm Leonardo! 👋
 - :notebook: I like to write some stuff on [Medium](https://medium.com/@leogregianin) and help [StackOverFlow](https://pt.stackoverflow.com/users/7956/lgregianin) community.
 - :seedling: Contribute with Open Source Software development and learning more about Cloud Architecture and Software Engineering.
 - :pray: Thankful for worked in [Pychess](https://github.com/pychess/pychess) and [Wikimedia](https://github.com/wikimedia) projects mostly in [pywikibot](https://github.com/wikimedia/pywikibot). Attualy working in [ScanAPI](https://github.com/scanapi) and [Open-Bacen](https://github.com/open-bacen).
-
 - :star: More about in [Linkedin](https://www.linkedin.com/in/leonardogregianin) and my [presentations](https://speakerdeck.com/leogregianin).

@@ -10,3 +10,7 @@ Hi there, I'm Leonardo! 👋
 - :star: More about in [Linkedin](https://www.linkedin.com/in/leonardogregianin) and my [presentations](https://speakerdeck.com/leogregianin).
 
 Feel free to leave me a message via email.
+
+____
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=leogregianin&count_private=true)](https://github.com/leogregianin)

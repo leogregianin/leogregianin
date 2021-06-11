@@ -16,3 +16,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leogregianin)](https://github.com/leogregianin)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-303030?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/leogregianin)](https://gitlab.com/leogregianin)
 [![Speakerdeck Badge](https://img.shields.io/badge/-Speakerdeck-303030?style=flat-square&logo=Speakerdeck&link=https://speakerdeck.com/leogregianin)](https://speakerdeck.com/leogregianin)
+
+Stay hungry, stay foolish, stay restless!

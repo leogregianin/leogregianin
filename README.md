@@ -12,7 +12,7 @@ Hi there, I'm Leonardo! 👋
      * [BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros) Brazilian banks list ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat-square)
      * [brcep](https://github.com/leogregianin/brcep) Golang project for quickly access zip code information to ViaCEP, CEPAberto and Correios. ![Stars](https://img.shields.io/github/stars/leogregianin/brcep?style=flat-square)
      * [python package PyNFe](https://github.com/TadaSoftware/PyNFe) interface com os webservices da Receita Federal. ![Stars](https://img.shields.io/github/stars/TadaSoftware/PyNFe?style=flat-square)
-     * [status-nfe](https://github.com/lucrorural/status-nfe) Serviço de consulta de status dos Webservices da Sefaz de todos os Estados do Brasil através do Portal NFe ![Stars](https://img.shields.io/github/stars/lucrorural/status-nfe?style=flat-square)
+     * [status-nfe](https://github.com/lucrorural/status-nfe) status dos Webservices da Sefaz de todo o Brasil ![Stars](https://img.shields.io/github/stars/lucrorural/status-nfe?style=flat-square)
      * [python package Faker](https://github.com/joke2k/faker) that generates fake data for you. ![Stars](https://img.shields.io/github/stars/joke2k/faker?style=flat-square)
      * [python package python-digital-certificate](https://github.com/leogregianin/python-digital-certificate) Read digital certificate (pfx and p12 files). ![Stars](https://img.shields.io/github/stars/leogregianin/python-digital-certificate?style=flat-square)
      * [python package cidade_ibge_tom](https://github.com/leogregianin/cidade_ibge_tom) Informações da Cidade pelo IBGE ou TOM. ![Stars](https://img.shields.io/github/stars/leogregianin/cidade_ibge_tom?style=flat-square)

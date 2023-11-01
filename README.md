@@ -2,7 +2,7 @@ Hi there, I'm Leonardo! 👋
 
 - :technologist: Every day thinking about solutions, automations and writing code.
 - :earth_americas: From Santa Catarina, Brasil and Living in Cuiabá, Mato Grosso, Brasil :fire:
-- :construction: <s>Attualy working in [Lucro Rural](https://github.com/lucrorural) and [Nota Fiscal Rural](https://github.com/notafiscalrural)</s>
+- :construction: Attualy working in open source software.
 - :seedling: :pray: Contribute with Open Source Software:
      * [Wikimedia Foundation](https://github.com/wikimedia) projects mostly in [pywikibot](https://github.com/wikimedia/pywikibot) ![Stars](https://img.shields.io/github/stars/wikimedia/pywikibot?style=flat-square)
      * [Pychess](https://github.com/pychess/pychess) a chess client for Linux/Windows. ![Stars](https://img.shields.io/github/stars/pychess/pychess?style=flat-square)

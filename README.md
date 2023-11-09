@@ -45,5 +45,3 @@ Hi there, I'm Leonardo! 👋
      * [elixir package ofx](https://github.com/Finbits/ofx) A Elixir library for OFX format ![Stars](https://img.shields.io/github/stars/Finbits/ofx?style=flat-square)
      * [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) tools, processes and resources for Django REST Framework. ![Stars](https://img.shields.io/github/stars/nioperas06/awesome-django-rest-framework?style=flat-square)
      * [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) A collection of amazing open source projects built by brazilian developers. ![Stars](https://img.shields.io/github/stars/felipefialho/awesome-made-by-brazilians?style=flat-square)
-    
-----

@@ -1,17 +1,12 @@
 Hi there, I'm Leonardo! 👋
 
-- :technologist: Every day thinking about solutions, automations and writing code.
+- :technologist: Every day thinking about solutions, automation and writing code.
 - :earth_americas: From Santa Catarina, Brasil and Living in Cuiabá, Mato Grosso, Brasil :fire:
-- :construction: Attualy working in open source software.
+- :construction: Actual working in open source software.
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogregianin/)](https://www.linkedin.com/in/leonardogregianin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leogregianin@gmail.com)](mailto:leogregianin@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-303030?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/leogregianin)](https://twitter.com/leogregianin)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leogregianin)](https://github.com/leogregianin)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-303030?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/leogregianin)](https://gitlab.com/leogregianin)
-[![Speakerdeck Badge](https://img.shields.io/badge/-Speakerdeck-303030?style=flat-square&logo=Speakerdeck&link=https://speakerdeck.com/leogregianin)](https://speakerdeck.com/leogregianin)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-303030?style=social&logo=Youtube&link=https://www.youtube.com/@leonardogregianin)](https://www.youtube.com/@leonardogregianin)
 [![Medium Badge](https://img.shields.io/badge/-Medium-303030?style=flat-square&logo=Medium&link=https://medium.com/@leogregianin)](https://medium.com/@leogregianin)
-[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-303030?style=flat-square&logo=StackOverFlow&link=https://pt.stackoverflow.com/users/7956/lgregianin)](https://pt.stackoverflow.com/users/7956/lgregianin)
-
 
 - :seedling: :pray: Contribute with Open Source Software:
      * [Wikimedia Foundation](https://github.com/wikimedia) projects mostly in [pywikibot](https://github.com/wikimedia/pywikibot) ![Stars](https://img.shields.io/github/stars/wikimedia/pywikibot?style=flat-square)
@@ -20,7 +15,7 @@ Hi there, I'm Leonardo! 👋
      * [FinTech Hub](https://github.com/fintech-hub/) FinTech Hub provides libraries and project templates for the finance technology ecosystem.
      * [minha-receita](https://github.com/cuducos/minha-receita) Sua API web para consulta de informações do CNPJ da Receita Federal. ![Stars](https://img.shields.io/github/stars/cuducos/minha-receita?style=flat-square)
      * [BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros) Brazilian banks list ![Stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat-square)
-     * [brcep](https://github.com/leogregianin/brcep) Golang project for quickly access zip code information to ViaCEP, CEPAberto and Correios. ![Stars](https://img.shields.io/github/stars/leogregianin/brcep?style=flat-square)
+     * [brcep](https://github.com/leogregianin/brcep) Golang project for quickly accessing zip code information to ViaCEP, CEPAberto, and Correios. ![Stars](https://img.shields.io/github/stars/leogregianin/brcep?style=flat-square)
      * [python package PyNFe](https://github.com/TadaSoftware/PyNFe) interface com os webservices da Receita Federal. ![Stars](https://img.shields.io/github/stars/TadaSoftware/PyNFe?style=flat-square)
      * [status-nfe](https://github.com/lucrorural/status-nfe) status dos Webservices da Sefaz de todo o Brasil ![Stars](https://img.shields.io/github/stars/lucrorural/status-nfe?style=flat-square)
      * [python package Faker](https://github.com/joke2k/faker) that generates fake data for you. ![Stars](https://img.shields.io/github/stars/joke2k/faker?style=flat-square)
@@ -38,10 +33,10 @@ Hi there, I'm Leonardo! 👋
      * [python package xmltodict](https://github.com/martinblech/xmltodict) working with XML feel like you are working with JSON ![Stars](https://img.shields.io/github/stars/martinblech/xmltodict?style=flat-square)
      * [python package pynubank](https://github.com/andreroggeri/pynubank) Nubank python API ![Stars](https://img.shields.io/github/stars/andreroggeri/pynubank?style=flat-square)
      * [python package juno-python](https://github.com/mjr/juno-python) Juno python API ![Stars](https://img.shields.io/github/stars/mjr/juno-python?style=flat-square)
-     * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs) django middleware and other helpers for audit logging. ![Stars](https://img.shields.io/github/stars/Raekkeri/django-requestlogs?style=flat-square)
+     * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs) Django middleware and other helpers for audit logging. ![Stars](https://img.shields.io/github/stars/Raekkeri/django-requestlogs?style=flat-square)
      * [django-cities](https://github.com/coderholic/django-cities) Countries and cities of the world for Django projects ![Stars](https://img.shields.io/github/stars/coderholic/django-cities?style=flat-square)
      * [django dr_scaffold](https://github.com/Abdenasser/dr_scaffold) scaffold django rest apis like a champion. ![Stars](https://img.shields.io/github/stars/Abdenasser/dr_scaffold?style=flat-square)
      * [golang package brdoc](https://github.com/paemuri/brdoc) Brazilian docs validator for Go ![Stars](https://img.shields.io/github/stars/paemuri/brdoc?style=flat-square)
      * [elixir package ofx](https://github.com/Finbits/ofx) A Elixir library for OFX format ![Stars](https://img.shields.io/github/stars/Finbits/ofx?style=flat-square)
-     * [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) tools, processes and resources for Django REST Framework. ![Stars](https://img.shields.io/github/stars/nioperas06/awesome-django-rest-framework?style=flat-square)
-     * [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) A collection of amazing open source projects built by brazilian developers. ![Stars](https://img.shields.io/github/stars/felipefialho/awesome-made-by-brazilians?style=flat-square)
+     * [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) tools, processes, and resources for Django REST Framework. ![Stars](https://img.shields.io/github/stars/nioperas06/awesome-django-rest-framework?style=flat-square)
+     * [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) A collection of amazing open-source projects built by Brazilian developers. ![Stars](https://img.shields.io/github/stars/felipefialho/awesome-made-by-brazilians?style=flat-square)

@@ -1,8 +1,8 @@
 Hi there, I'm Leonardo! 👋
 
-- :technologist: Every day thinking about solutions, automation and writing code.
-- :earth_americas: From Santa Catarina, Brasil and Living in Cuiabá, Mato Grosso, Brasil :fire:
-- :construction: Actual working in open source software.
+- 🧑‍💻 Every day thinking about solutions, automation and writing code.
+- 🌎 From Santa Catarina, Brasil and Living in Cuiabá, Mato Grosso, Brasil :fire:
+- 🚧 Actual working in open source software.
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogregianin/)](https://www.linkedin.com/in/leonardogregianin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leogregianin@gmail.com)](mailto:leogregianin@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-303030?style=social&logo=Youtube&link=https://www.youtube.com/@leonardogregianin)](https://www.youtube.com/@leonardogregianin)

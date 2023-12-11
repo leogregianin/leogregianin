@@ -2,9 +2,14 @@ Hi there, I'm Leonardo! 👋
 
 Every day thinking about solutions, automation and writing code. 
 
+Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogregianin/)](https://www.linkedin.com/in/leonardogregianin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leogregianin@gmail.com)](mailto:leogregianin@gmail.com)
+
+Youtube channel:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-303030?style=social&logo=Youtube&link=https://www.youtube.com/@leonardogregianin)](https://www.youtube.com/@leonardogregianin)
+
+Blog / writing:
 [![Medium Badge](https://img.shields.io/badge/-Medium-303030?style=social&logo=Medium&link=https://medium.com/@leogregianin)](https://medium.com/@leogregianin)
 
 ### :seedling: :pray: My Open Source Software:

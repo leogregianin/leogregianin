@@ -11,6 +11,7 @@ Youtube channel:
 
 Blog / writing:
 [![Medium Badge](https://img.shields.io/badge/-Medium-303030?style=social&logo=Medium&link=https://medium.com/@leogregianin)](https://medium.com/@leogregianin)
+[![Devto Badge](https://img.shields.io/badge/-Devto-303030?style=social&logo=Dev.to&link=https://dev.to/leogregianin)](https://dev.to/leogregianin)
 
 ### :seedling: :pray: My Open Source Software:
 | Project | Description | Social |

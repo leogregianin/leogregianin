@@ -1,0 +1,38 @@
+name: stats
+
+on:
+  schedule:
+  - cron: '0 4 * * *'
+
+concurrency:
+  group: stats
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install Poetry
+      uses: snok/install-poetry@v1
+
+    - name: Install dependencies
+      run: poetry install --no-interaction
+
+    - name: Download stats
+      run: poetry run python stats.py leogregianin
+
+    - name: Configure Git for GitHub Actions bot
+      run: |
+        git config --local user.name 'github-actions[bot]'
+        git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit if stats have changed
+      run: |
+        git diff --quiet || (git add --all && git commit -m "Update stats" && git push)

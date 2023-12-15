@@ -2,7 +2,7 @@ name: stats
 
 on:
   schedule:
-  - cron: '0 4 * * *'
+  - cron: '*/5 * * * *'
 
 concurrency:
   group: stats

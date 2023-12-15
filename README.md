@@ -54,5 +54,5 @@ Blog / writing:
 
 ### Activities
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=leogregianin&show_icons=true&count_private=true" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogregianin&layout=compact&show_icons=true&hide=html,css&langs_count=8" />
+<img src="general_stats.svg" alt="GitHub Statistics" loading="lazy">
+<img src="language_stats.svg" alt="Top Languages" loading="lazy">

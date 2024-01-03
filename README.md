@@ -9,11 +9,18 @@ Contacts:
 Youtube channel:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-303030?style=social&logo=Youtube&link=https://www.youtube.com/@leonardogregianin)](https://www.youtube.com/@leonardogregianin)
 
-Blog / writing:
-[![Medium Badge](https://img.shields.io/badge/-Medium-303030?style=social&logo=Medium&link=https://medium.com/@leogregianin)](https://medium.com/@leogregianin)
-[![Devto Badge](https://img.shields.io/badge/-Devto-303030?style=social&logo=Dev.to&link=https://dev.to/leogregianin)](https://dev.to/leogregianin)
+### :writing_hand: My articles:
+* [Kubernetes: o que é, quando e como aplicá-lo](https://dev.to/leogregianin/kubernetes-o-que-e-quando-e-como-aplica-lo-1h6c)
+* [Python é fácil. Go é simples. Simples é diferente de fácil](https://dev.to/leogregianin/python-e-facil-go-e-simples-simples-e-diferente-de-facil-5b9o)
+* [Gerenciamento de ambientes e pacotes no Python](https://medium.com/@leogregianin/gerenciamento-de-ambientes-e-pacotes-no-python-9a7afb6572ab)
+* [Agregador de APIs de CEPs do Brasil com Golang](https://medium.com/@leogregianin/agregador-de-apis-de-ceps-do-brasil-com-golang-2308a71eafcc)
+* [Lucro Rural: Guia da nossa engenharia de software](https://medium.com/@leogregianin/guia-da-engenharia-c0bae6576ade)
+* [Buscando taxas oficiais do Banco Central do Brasil com Python](https://medium.com/@leogregianin/buscando-taxas-oficiais-do-banco-central-do-brasil-com-python-1c76f031f8e8)
+* [python ffn — Funções de Finanças](https://medium.com/@leogregianin/https-medium-com-leogregianin-python-ffn-1b4078e88388)
+* [Gerando API automaticamente com Django](https://medium.com/@leogregianin/gerando-api-automaticamente-com-django-3d534ce20f91)
+* [O paradoxo Python](https://medium.com/@leogregianin/o-paradoxo-python-af9aaea6c65)
 
-### :seedling: :pray: My Open Source Software:
+### :seedling: My Open Source Software:
 | Project | Description | Social |
 |---------|-------------|--------|
 | [python package ibge](https://github.com/leogregianin/ibge) | Data collection of geographical divisions of Brazil by IBGE | ![Stars](https://img.shields.io/github/stars/leogregianin/ibge?style=social) |
@@ -26,7 +33,7 @@ Blog / writing:
 | [python package siscomex-ncm](https://github.com/leogregianin/siscomex-ncm) | API access to the NCM (Nomenclatura Comum do Mercosul) by Siscomex | ![Stars](https://img.shields.io/github/stars/leogregianin/siscomex-ncm?style=social) |
 | [python package viacep-python](https://github.com/leogregianin/viacep-python) | Informações do CEP com o webservice do site viacep | ![Stars](https://img.shields.io/github/stars/leogregianin/viacep-python?style=social) |
 
-### :seedling: :pray: Contribute with Open Source Software:
+### :seedling: Contribute with Open Source Software:
 | Project | Description | Social |
 |---------|-------------|--------|
 | [Python Wikipedia Bot](https://github.com/wikimedia/pywikibot) | Library and collection of scripts that automate work on MediaWiki sites. | ![stars](https://img.shields.io/github/stars/wikimedia/pywikibot?style=social) |

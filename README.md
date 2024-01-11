@@ -1,13 +1,16 @@
 Hi there, I'm Leonardo! 👋
 
-Every day thinking about solutions, automation and writing code. 
+I'm a software developer by profession and as a hobby. For a few years studying and applying new software architectures, programming languages, leading agile teams, deploying in cloud environments to build solutions for the SaaS world.
 
-Contacts:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardogregianin/)](https://www.linkedin.com/in/leonardogregianin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leogregianin@gmail.com)](mailto:leogregianin@gmail.com)
+I like building software for **people** with Python, Django, FastAPI, Golang, Docker, Kubernetes, Postgres, NoSQL, Machine Learning, Messaging with RabbitMQ and Kafka, modern APIs and modern frontends.
 
-Youtube channel:
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-303030?style=social&logo=Youtube&link=https://www.youtube.com/@leonardogregianin)](https://www.youtube.com/@leonardogregianin)
+I am constantly learning and sharing knowledge.
+
+### You can:
+- 🔖 Read what I write on [Medium](https://medium.com/@leogregianin) and [Dev.to](https://dev.to/leogregianin).
+- ✍️ See the projects that I participated in [Github](https://github.com/leogregianin).
+- 🙈 Watch my videos on [Youtube](https://www.youtube.com/@leonardogregianin).
+- 💌 Get in touch via [LinkedIn](https://linkedin.com/in/leonardogregianin), [Twitter](https://twitter.com/leogregianin) or email leogregianin@gmail.com
 
 ### :writing_hand: My articles:
 * [Kubernetes: o que é, quando e como aplicá-lo](https://dev.to/leogregianin/kubernetes-o-que-e-quando-e-como-aplica-lo-1h6c)

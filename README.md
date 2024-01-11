@@ -10,7 +10,7 @@ I am constantly learning and sharing knowledge.
 - 🔖 Read what I write on [Medium](https://medium.com/@leogregianin) and [Dev.to](https://dev.to/leogregianin).
 - ✍️ See the projects that I participated in [Github](https://github.com/leogregianin).
 - 🙈 Watch my videos on [Youtube](https://www.youtube.com/@leonardogregianin).
-- 💌 Get in touch via [LinkedIn](https://linkedin.com/in/leonardogregianin), [Twitter](https://twitter.com/leogregianin) or email leogregianin@gmail.com
+- 💌 Get in touch via [LinkedIn](https://linkedin.com/in/leonardogregianin), [Twitter](https://twitter.com/leogregianin) or email `leogregianin at gmail.com`
 
 ### :writing_hand: My articles:
 * [Kubernetes: o que é, quando e como aplicá-lo](https://dev.to/leogregianin/kubernetes-o-que-e-quando-e-como-aplica-lo-1h6c)

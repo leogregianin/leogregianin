@@ -62,8 +62,3 @@ I am constantly learning and sharing knowledge.
 | [elixir package ofx](https://github.com/Finbits/ofx) | A Elixir library for OFX format | ![Stars](https://img.shields.io/github/stars/Finbits/ofx?style=social) |
 | [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) | tools, processes, and resources for Django REST Framework | ![Stars](https://img.shields.io/github/stars/nioperas06/awesome-django-rest-framework?style=social) |
 | [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) | A collection of amazing open-source projects built by Brazilian developers | ![Stars](https://img.shields.io/github/stars/felipefialho/awesome-made-by-brazilians?style=social) |
-
-### Activities
-
-<img src="general_stats.svg" alt="GitHub Statistics" loading="lazy">
-<img src="language_stats.svg" alt="Top Languages" loading="lazy">

@@ -4,9 +4,7 @@ I'm a software developer by profession and as a hobby. For a few years studying 
 
 I like building software for **people** with Python, Django, FastAPI, Golang, Docker, Kubernetes, Postgres, NoSQL, Machine Learning, Messaging with RabbitMQ and Kafka, modern APIs and modern frontends.
 
-I am constantly learning and sharing knowledge.
-
-### You can:
+I manage my time between work, family of 2 children, sports and constant learning and sharing of knowledge, you can:
 - 🔖 Read what I write on [Medium](https://medium.com/@leogregianin) and [Dev.to](https://dev.to/leogregianin).
 - ✍️ See the projects that I participated in [Github](https://github.com/leogregianin).
 - 📺 Watch my videos on [Youtube](https://www.youtube.com/@leonardogregianin).

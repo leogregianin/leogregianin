@@ -2,7 +2,7 @@ Hi there, I'm Leonardo! 👋
 
 I'm a software developer by profession and as a hobby. For a few years studying and applying new software architectures, programming languages, leading agile teams, deploying in cloud environments to build solutions for the SaaS world.
 
-I like building software for **people** with Python, Django, FastAPI, Golang, Docker, Kubernetes, Postgres, NoSQL, Machine Learning, Messaging with RabbitMQ and Kafka, modern APIs and modern frontends.
+I like building software for people mainly with Python, Django, FastAPI, Docker, Kubernetes, Postgres, message queues, modern APIs and modern frontends.
 
 I manage my time between work, family of 2 children, sports and constant learning and sharing of knowledge, you can:
 - 🔖 Read what I write on [Medium](https://medium.com/@leogregianin) and [Dev.to](https://dev.to/leogregianin).

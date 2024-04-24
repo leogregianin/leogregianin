@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Leonardo Gregianin's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 264, Total Commits  : 1750, Total PRs: 248, Total Issues: 155, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 264, Total Commits  : 1751, Total PRs: 248, Total Issues: 155, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.338353517952076;
+        stroke-dashoffset: 31.327874856495303;
       }
     }
   

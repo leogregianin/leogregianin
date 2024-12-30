@@ -1,3 +1,4 @@
+<!--
 Hi there, I'm Leonardo! 👋
 
 I'm a software developer by profession and as a hobby. For a few years studying and applying new software architectures, programming languages, leading agile teams, deploying in cloud environments to build solutions for the SaaS world.
@@ -60,3 +61,4 @@ I manage my time between work, family of 2 children, sports and constant learnin
 | [elixir package ofx](https://github.com/Finbits/ofx) | A Elixir library for OFX format | ![Stars](https://img.shields.io/github/stars/Finbits/ofx?style=social) |
 | [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) | tools, processes, and resources for Django REST Framework | ![Stars](https://img.shields.io/github/stars/nioperas06/awesome-django-rest-framework?style=social) |
 | [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) | A collection of amazing open-source projects built by Brazilian developers | ![Stars](https://img.shields.io/github/stars/felipefialho/awesome-made-by-brazilians?style=social) |
+-->

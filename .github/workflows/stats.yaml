@@ -1,8 +1,8 @@
 name: stats
 
-on:
-  schedule:
-  - cron: '0 4 * * *'
+#on:
+#  schedule:
+#  - cron: '0 4 * * *'
 
 concurrency:
   group: stats
